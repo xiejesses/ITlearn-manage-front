@@ -4,7 +4,7 @@ import Home from '@/components/Home';
 import User from '@/components/User';
 import Recommend from '@/components/Recommend';
 import Tag from '@/components/Tag';
-import Group from '@/components/group';
+import Group from '@/components/Group';
 import Topic from '@/components/Topic';
 import Comments from '@/components/Comments';
 
